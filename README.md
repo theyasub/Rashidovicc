@@ -28,3 +28,9 @@ Here are some ideas to get you started:
         <img
                 src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=DotNet+Developer&center=true&width=580&height=45"></a>
 </p>
+
+<div align="center">
+  <a href="https://github.com/Rashidovicc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashidovicc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidovicc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
