@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-    <a href="https://github.com/radjabov/readme-typing-svg">
+    <a href="https://github.com/Rashidovicc/readme-typing-svg">
         <img
                 src="https://readme-typing-svg.herokuapp.com?font=Jetbrainsmono&color=%2336BCF7&size=35&center=true&vCenter=true&lines=DotNet+Developer&center=true&width=580&height=45"></a>
 </p>
