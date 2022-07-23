@@ -40,6 +40,8 @@ Here are some ideas to get you started:
     <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rashidovicc&theme=algolia&hide_border=true">
 
 </div>
+
+
 ![snake gif](https://github.com/Rashidovicc/Rashidovicc/blob/output/github-contribution-grid-snake.svg)
 
 
