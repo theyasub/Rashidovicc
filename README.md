@@ -49,3 +49,4 @@ Here are some ideas to get you started:
     <!-- https://github.com/Rashidovicc/github-readme-activity-graph -->
     <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=rashidovicc&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
   </div>
+  
