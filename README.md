@@ -42,6 +42,15 @@ Here are some ideas to get you started:
 </div>
 
 
+
+
+<div align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovicc&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=12" height="90%">
+</div>
+<hr>
+
+
+
 ![snake gif](https://github.com/Rashidovicc/Rashidovicc/blob/output/github-contribution-grid-snake.svg)
 
 
