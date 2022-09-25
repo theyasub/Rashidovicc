@@ -21,12 +21,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h3 align="center">
-    Assalamu Alaykum!
-  Welcome to my profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <p align="center">
     <a href="https://github.com/rashidovicc/readme-typing-svg">
         <img
